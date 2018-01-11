@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Computer Graphics at Illinois
 
-You can use the [editor on GitHub](https://github.com/UIllinoisGraphics/UIllinoisGraphics.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A collection of links to computer graphics related courses at the University of Illinois at Urbana-Champaign.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Computer Graphics Courses
 
-### Markdown
+- [CS 199GAM Elements of Game Design] (https://learn.illinois.edu/course/view.php?id=26602)
+- [CS 418 Interactive Computer Graphics] (https://courses.engr.illinois.edu/cs418/sp2018/)
+- [CS 419 Production Computer Graphics] (https://courses.engr.illinois.edu/cs419/sp2017/)
+- [CS 498SL Virtual Reality] (https://courses.engr.illinois.edu/cs498sl3/sp2017/)
+- [CS 519 Scientific Visualization] (https://courses.engr.illinois.edu/cs519/fa2015/index.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UIllinoisGraphics/UIllinoisGraphics.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
