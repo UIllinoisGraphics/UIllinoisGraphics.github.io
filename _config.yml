@@ -1,11 +1,18 @@
----
-title: University of Illinois Computer Graphics and Visualization
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-theme: jekyll-theme-slate
+# Site Settings
+title: CS 419 Production Computer Graphics
+email: shaffer1@illinois.edu
+description: >
+  Webpage for the course CS 419 at the University of Illinois
+baseurl: "" 
+url: "http://UIllinoisGraphics.github.io"
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
