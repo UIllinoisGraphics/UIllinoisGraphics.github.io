@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Calendar
-permalink: /calendar/
+permalink: "/calendar/"
+layout: page
 ---
 
 |**Date**    |**Topic**         |**Materials**|         |**Assignments**|
