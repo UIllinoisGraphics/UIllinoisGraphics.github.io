@@ -5,7 +5,7 @@ layout: page
 ---
 
 |-----------------+------------+-----------------|
-| Machine Problem 1 |Released Aug 31| Due Sep 18 | 
+| Machine Problem 1 | &nbsq; &nbsq; &nbsq; &nbsq; Released Aug 31| &nbsq; &nbsq; &nbsq; &nbsq; Due Sep 18 | 
 |-----------------|:-----------|:---------------:|
 | Machine Problem 2 | | | 
 |-----------------+------------+-----------------| 
