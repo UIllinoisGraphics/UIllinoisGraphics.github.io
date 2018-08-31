@@ -3,6 +3,7 @@ title: Machine Problems
 permalink: "/mps/"
 layout: page
 ---
+
 |-----------------+------------+-----------------|
 | Machine Problem 1 |Released Aug 31| Due Sep 18 | 
 |-----------------|:-----------|:---------------:|
