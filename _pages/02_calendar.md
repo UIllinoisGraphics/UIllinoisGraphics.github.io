@@ -5,18 +5,24 @@ layout: page
 ---
 
 |**Date**    |**Topic**         |**Materials**||**Assignments**|
-|:<img width=200/>|:-----------------|:------------|:--------|:--------------|
+|:------------|:----------------|:------------|:--------|:--------------|
 |:-----------|:-----------------|:------------|:--------|:--------------|
-|**Aug 27**|Introduction      | [Lecture1](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-1-Preliminaries.pptx?raw=true) | |Read _Ray Tracing from the Ground Up_ chapters 1 and 3
+|**Aug 27**|Introduction      | [Lecture1](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-1-Preliminaries.pptx?raw=true) | |Read _Ray Tracing from the Ground Up_ chapters 1 and 3     |
 |------------|------------------|-------------|---------|---------------|
 |:-----------|:-----------------|:------------|:--------|:--------------|
-|**Aug 29**|Basic Ray Tracing | [Lecture2](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-2-Ray%20Tracing.pptx?raw=true) [Worksheet0](https://github.com/shaffer1/UIllinois_Rendering/raw/master/CS%20419-Worksheet0.pdf)   |                     | Read _Ray Tracing from the Ground Up_ chapter 4 
+|**Aug 29**|Basic Ray Tracing | [Lecture2](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-2-Ray%20Tracing.pptx?raw=true) [Worksheet0](https://github.com/shaffer1/UIllinois_Rendering/raw/master/CS%20419-Worksheet0.pdf)   |                     | Read _Ray Tracing from the Ground Up_ chapter 4 |
 |            |                   |             |         |              |
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Sep 3**   | **No Lecture**    |             |         |             |
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Sep 8**   | Sampling and Aliasing | | ||
+|**Sep 5**   | Sampling and Aliasing | | ||
+|------------|-------------------|-------------|---------|--------------|
+|:-----------|:------------------|:------------|:--------|:-------------|
+|**Sep 10**   | **No Lecture**    |             |         |             |
+|------------|-------------------|-------------|---------|--------------|
+|:-----------|:------------------|:------------|:--------|:-------------|
+|**Sep 12**   | Viewing            | | ||
 |===
 | 
