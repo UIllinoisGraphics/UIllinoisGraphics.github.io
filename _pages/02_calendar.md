@@ -4,7 +4,7 @@ permalink: "/calendar/"
 layout: page
 ---
 
-|**Date** &nbsp; &nbsp; &nbsp; &nbsp;|**Topic**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;       |**Materials** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;||**Assignments** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
+|**Date** &nbsp; &nbsp; &nbsp; &nbsp;|**Topic**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;      |**Materials** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;||**Assignments** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 |:-----------|:----------------|:------------|:--------|:--------------|
 |:-----------|:-----------------|:------------|:--------|:--------------|
 |**Aug 27**|Introduction      | [Lecture1](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-1-Preliminaries.pptx?raw=true) | |Read _Ray Tracing from the Ground Up_ chapters 1 and 3     |
