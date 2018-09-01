@@ -1,12 +1,11 @@
 ---
-title: MP1
+title: MP1 Bare Bones Ray Tracing
 permalink: "/mp1/"
 layout: page
 ---
 
 ### Due: September 18, 11:55pm
 
-### Bare Bones Ray Tracing
 For your first programming assignment you will implement a bare bones ray-tracer with the following capabilities:
 
 1. Ray-object intersection support for:
@@ -20,7 +19,7 @@ For your first programming assignment you will implement a bare bones ray-tracer
  
 4. Multi-jittered sampling for the primary rays
  
-5. Simple Lambertian shading using a directional light with no position
+5. Simple shading using the Blinn-Phong or Phong reflectance model. Just do diffuse (Lambertain) shading without any specular component. Use a directional light with no position
 
 ### Hand-in
 
