@@ -4,9 +4,9 @@ permalink: "/mp1/"
 layout: page
 ---
 
-### CS 419: Machine Problem 1                       Due: September 18, 11:55pm
+## CS 419: Machine Problem 1                       Due: September 18, 11:55pm
 
-##### Bare Bones Ray Tracing
+### Bare Bones Ray Tracing
 For your first programming assignment you will implement a bare bones ray-tracer with the following capabilities:
 
 1. Ray-object intersection support for:
@@ -22,7 +22,7 @@ For your first programming assignment you will implement a bare bones ray-tracer
  
 5. Simple Lambertian shading using a directional light with no position
 
-##### Hand-in
+### Hand-in
 
 You will hand in your code and 5 images:
 
@@ -36,7 +36,7 @@ You will hand in your code and 5 images:
 
 Hand-in will be done on Compass and detailed instructions will be forthcoming 
 
-##### Technical Details
+### Technical Details
 
 + You can use any programming /platform you wish
 
@@ -44,4 +44,4 @@ Hand-in will be done on Compass and detailed instructions will be forthcoming
 
 + If you wish to use the framework code from Ray-Tracing from the Ground Up, you may.
 
-       **Keep in mind that if you use code from other sources, you must document the use of that code** 
+**Keep in mind that if you use code from other sources, you must document the use of that code**
