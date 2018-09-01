@@ -4,7 +4,6 @@ permalink: "/mp1/"
 layout: page
 ---
 
-### CS 419: Machine Problem 1  
 ### Due: September 18, 11:55pm
 
 ### Bare Bones Ray Tracing
