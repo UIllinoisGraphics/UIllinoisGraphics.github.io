@@ -1,10 +1,10 @@
 ---
-title: MP1 Bare Bones Ray Tracing
+title: MP1
 permalink: "/mp1/"
 layout: page
 ---
 
-### Due: September 18, 11:55pm
+###Bare Bone Ray Tracing Due: September 18, 11:55pm
 
 For your first programming assignment you will implement a bare bones ray-tracer with the following capabilities:
 
