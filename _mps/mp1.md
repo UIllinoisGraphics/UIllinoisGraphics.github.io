@@ -4,7 +4,8 @@ permalink: "/mp1/"
 layout: page
 ---
 
-## CS 419: Machine Problem 1                       Due: September 18, 11:55pm
+### CS 419: Machine Problem 1  
+### Due: September 18, 11:55pm
 
 ### Bare Bones Ray Tracing
 For your first programming assignment you will implement a bare bones ray-tracer with the following capabilities:
