@@ -4,45 +4,44 @@ permalink: "/mp1/"
 layout: page
 ---
 
-CS 419: Machine Problem 1                       Due: Spetember 18, 11:55pm
+### CS 419: Machine Problem 1                       Due: September 18, 11:55pm
 
-Bare Bones Ray Tracing
+##### Bare Bones Ray Tracing
 For your first programming assignment you will implement a bare bones ray-tracer with the following capabilities:
 
-Ray-object intersection support for:
-Planes
-Spheres
-Triangles
+1. Ray-object intersection support for:
+   1. Planes
+   2. Spheres
+   3. Triangles
  
-Orthographic projection
+2. Orthographic projection
  
-Perspective projection with a movable camera
+3. Perspective projection with a movable camera
  
-Multi-jittered sampling for the primary rays
+4. Multi-jittered sampling for the primary rays
  
-Simple Lambertian shading using a directional light with no position
-Hand-in
+5. Simple Lambertian shading using a directional light with no position
+
+##### Hand-in
 
 You will hand in your code and 5 images:
 
-·      One orthographic rendering of a scene with spheres and triangles
++ One orthographic rendering of a scene with spheres and triangles
 
-·      One perspective rendering of the same scene
++ One perspective rendering of the same scene
 
-·      An additional perspective rendering of the same scene from a different viewpoint
++ An additional perspective rendering of the same scene from a different viewpoint
 
-·      Two images illustrating the effects of using jittering.
-       The first image should use a single ray for each pixel, while the second should use multi-jittering.
-       Try to set up a scene so that the difference is apparent. 
++ Two images illustrating the effects of using jittering. The first image should use a single ray for each pixel, while the second should use multi-jittering. Try to set up a scene so that the difference is apparent. 
 
 Hand-in will be done on Compass and detailed instructions will be forthcoming 
 
-Technical Details
+##### Technical Details
 
-·      You can use any programming /platform you wish
++ You can use any programming /platform you wish
 
-·      You can use any math library/package you wish to support the vector/matrix operations you need to perform
++ You can use any math library/package you wish to support the vector/matrix operations you need to perform
 
-·      If you wish to use the framework code from Ray-Tracing from the Ground Up, you may.
++ If you wish to use the framework code from Ray-Tracing from the Ground Up, you may.
 
-       Keep in mind that if you use code from other sources, you must document the use of that code
+       **Keep in mind that if you use code from other sources, you must document the use of that code** 
