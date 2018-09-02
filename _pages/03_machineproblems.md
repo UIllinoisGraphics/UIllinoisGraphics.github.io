@@ -1,6 +1,7 @@
 ---
 title: Machine Problems
 permalink: "/mps/"
+navbar: true
 layout: page
 ---
 
