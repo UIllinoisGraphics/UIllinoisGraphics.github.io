@@ -2,6 +2,7 @@
 	<div class="container">
 		<nav>
 			<ul>
+				{% for page in site.pages %}
 				{% if page.title.eql "Syllabus" %}
 				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
 				{% endif %}
@@ -14,7 +15,7 @@
 				{% if page.title.eql "Gallery" %}
 				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
 				{% endif %}
-				
+				{% endfor %}
 			</ul>
 			</li>
 			</ul>
