@@ -1,6 +1,7 @@
 ---
 title: Syllabus
 permalink: "/syllabus/"
+navbar: true
 layout: page
 ---
 
