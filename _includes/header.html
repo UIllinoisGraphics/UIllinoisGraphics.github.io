@@ -2,20 +2,9 @@
 	<div class="container">
 		<nav>
 			<ul>
-				{% for page in site.pages %}
-				{% if page.title.eql "Syllabus" %}
+				{% for page in site.pages %} {% if page.title %}
 				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-				{% endif %}
-				{% if page.title.eql "Calendar" %}
-				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-				{% endif %}
-				{% if page.title.eql "Machine Problems" %}
-				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-				{% endif %}
-				{% if page.title.eql "Gallery" %}
-				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-				{% endif %}
-				{% endfor %}
+				{% endif %} {% endfor %}
 			</ul>
 			</li>
 			</ul>
