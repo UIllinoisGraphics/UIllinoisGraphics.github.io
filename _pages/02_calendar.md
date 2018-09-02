@@ -1,6 +1,7 @@
 ---
 title: Calendar
 permalink: "/calendar/"
+navbar: true
 layout: page
 ---
 
