@@ -40,7 +40,7 @@ Hand-in will be done on Compass and detailed instructions will be forthcoming
 
 |:----------------+------------|
 | **Feature**           | **Points** |
-|---------------------------|-------:|
+|:--------------------------|-------:|
 | Writes out an image!      | 1      |
 | Ray-Plane Intersection    | 2      |
 | Ray-Triangle Intersection | 2      |
