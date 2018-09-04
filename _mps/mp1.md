@@ -5,7 +5,7 @@ layout: page
 ---
 
 ### <span style="color:blue"> Bare Bone Ray Tracing </span>
-**Due: September 18, 11:55pm**
+**Due: September 20, 11:55pm**
 
 For your first programming assignment you will implement a bare bones ray-tracer with the following capabilities:
 
