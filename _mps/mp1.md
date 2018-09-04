@@ -38,6 +38,7 @@ Hand-in will be done on Compass and detailed instructions will be forthcoming
 
 ### Rubric
 
+|-----------------+------------|
 | **Feature**           | **Points** |
 |---------------------------|-------:|
 | Writes out an image!      | 1      |
@@ -50,6 +51,9 @@ Hand-in will be done on Compass and detailed instructions will be forthcoming
 | Multi-Jittered Sampling   | 2      |
 | Shading                   | 2      |
 | **TOTAL**	                 |15        |
+|===
+| 
+
 ### Technical Details
 
 + You can use any programming /platform you wish
