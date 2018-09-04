@@ -38,7 +38,7 @@ Hand-in will be done on Compass and detailed instructions will be forthcoming
 
 ### Rubric
 
-|-----------------+------------|
+|:----------------+------------|
 | **Feature**           | **Points** |
 |---------------------------|-------:|
 | Writes out an image!      | 1      |
