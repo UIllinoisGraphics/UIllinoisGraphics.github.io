@@ -36,6 +36,20 @@ You will hand in your code and 5 images:
 
 Hand-in will be done on Compass and detailed instructions will be forthcoming 
 
+### Rubric
+
+Feature	 Points
+Writes out an image!	1
+Ray-Plane Intersection 	2
+Ray-Triangle Intersection	2
+Ray-Sphere Intersection	2
+Orthographic Projection	1
+Perspective Projection	1
+Movable Camera	2
+Multi-jittered Sampling	2
+Shading	2
+TOTAL	15
+
 ### Technical Details
 
 + You can use any programming /platform you wish
