@@ -19,7 +19,7 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Sep 5**   | Aliasing | [Lecture3](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-3-Aliasing.pptx?raw=true) | | [**MP 1 Due Set 20**](https://uillinoisgraphics.github.io/mp1/)  |
-|             |                    |             |       | </br> Read _Ray Tracing from the Ground Up_ chapters 4 and 5|
+|             |                    |             |       | _Ray Tracing from the Ground Up_ chapters 4 and 5|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Sep 10**   | Viewing               |             |         |             |
