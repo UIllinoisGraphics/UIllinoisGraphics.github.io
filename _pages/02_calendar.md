@@ -18,7 +18,7 @@ layout: page
 |**Sep 3**   | **No Lecture**    |             |         |             |
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Sep 5**   | Aliasing | [Lecture3](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-3-Aliasing.pptx?raw=true) | | [**MP 1 Due Set 20**](https://uillinoisgraphics.github.io/mp1/)  |
+|**Sep 5**   | Aliasing | [Lecture3](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-3-Aliasing.pptx?raw=true) | | [**MP 1 Due Sept 20**](https://uillinoisgraphics.github.io/mp1/)  |
 |             |                    |             |       |       |
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
