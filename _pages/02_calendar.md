@@ -22,7 +22,7 @@ layout: page
 |             |                    |             |       |       |
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Sep 10**   | Viewing               | {Lecture 4](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-4-Perspective%20and%20Viewing.pptx?raw=true)  [Worksheet1](https://github.com/shaffer1/UIllinois_Rendering/raw/master/CS%20419-Worksheet1.pdf)            |         |             |
+|**Sep 10**   | Viewing               | [Lecture 4](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-4-Perspective%20and%20Viewing.pptx?raw=true)  [Worksheet1](https://github.com/shaffer1/UIllinois_Rendering/raw/master/CS%20419-Worksheet1.pdf)            |         |             |
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Sep 12**   | Basic Shading            | | ||
