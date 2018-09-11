@@ -5,8 +5,10 @@ navbar: true
 layout: page
 ---
 
-** Office Hour **
+**Office Hour**
+
 I will hold an office hour on Tuesdays from 10am to 11am in 2209 Siebel Center.
+
 **Book**
  
 ![Ray Tracing from the Ground Up Book](/assets/img/book.png) 
