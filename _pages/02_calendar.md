@@ -31,5 +31,6 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Sep 12**   | Ambient Occlusion Basic Shading            |[Lecture 5](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-5-Sampling.pptx?raw=true) [Worksheet2](https://github.com/shaffer1/UIllinois_Rendering/raw/master/CS%20419-Worksheet2.pdf) | |Read _Ray Tracing from the Ground Up_ chapters 6 and 7|
+|**Sep 12**   | Ambient Occlusion             |[Lecture 5](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-5-Sampling.pptx?raw=true)  | |Read _Ray Tracing from the Ground Up_ chapters 6 and 7|
+|------------|Basic Shading | [Worksheet2](https://github.com/shaffer1/UIllinois_Rendering/raw/master/CS%20419-Worksheet2.pdf)|---------|--------------|
 |===
