@@ -33,4 +33,9 @@ layout: page
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Sep 12**   | Ambient Occlusion             |[Lecture 5](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-5-Sampling.pptx?raw=true)  | |Read _Ray Tracing from the Ground Up_ chapters 6 and 7|
 |      |Basic Shading | [Worksheet2](https://github.com/shaffer1/UIllinois_Rendering/raw/master/CS%20419-Worksheet2.pdf)| | |
+|------------|-------------------|-------------|---------|--------------|
+|------------|-------------------|-------------|---------|--------------|
+|:-----------|:------------------|:------------|:--------|:-------------|
+|**Sep 17**   | Depth of Field             |[Lecture 6](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-6-Depth%20of%20Field.pptx?raw=true)  | |Read _Ray Tracing from the Ground Up_ chapters 10 and 16|
+|      |Shadows | [Lecture 7](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-8-Shadows.pptx?raw=true)| | |
 |===
