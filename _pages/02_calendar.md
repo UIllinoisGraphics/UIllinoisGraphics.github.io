@@ -38,4 +38,9 @@ layout: page
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Sep 17**   | Depth of Field             |[Lecture 6](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-6-Depth%20of%20Field.pptx?raw=true)  | |Read _Ray Tracing from the Ground Up_ chapters 10 and 16|
 |      |Shadows | [Lecture 7](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-8-Shadows.pptx?raw=true)| | |
+|------------|-------------------|-------------|---------|--------------|
+|------------|-------------------|-------------|---------|--------------|
+|:-----------|:------------------|:------------|:--------|:-------------|
+|**Sep 19**   | Meshes             |[Lecture 8]()  | |Read _Ray Tracing from the Ground Up_ chapters 22 and 23|
+|      | Uniform Grids | [Lecture 9]()| | |
 |===
