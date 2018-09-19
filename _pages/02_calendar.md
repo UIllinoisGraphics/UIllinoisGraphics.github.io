@@ -41,6 +41,6 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Sep 19**   | Meshes             |[Lecture 8]()  | |Read _Ray Tracing from the Ground Up_ chapters 22 and 23|
+|**Sep 19**   | Meshes             |[Lecture 8](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-16-Geometric%20Modeling%20with%20Meshes.pptx?raw=true)  | |Read _Ray Tracing from the Ground Up_ chapters 22 and 23|
 |      | Uniform Grids | [Lecture 9](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-17-Grids.pptx?raw=true)| | |
 |===
