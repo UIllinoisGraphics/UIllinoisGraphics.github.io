@@ -27,7 +27,6 @@ See _Ray Tracing from the Ground Up **Chapter 14 Lights and Materials**_
  
 5. Implement shading that uses both diffuse and specular reflection.
          
-
 ### Hand-in
 
 You will hand in your code and 2 images:
@@ -49,6 +48,10 @@ Write one paragraph and include a table that shows the **time** required to rend
 For eample, 100 spheres, 1000 spheres, and 10,000 spheres would be reasonable.
 
 Hand-in will be done on Compass.
+
+**Include a README.txt file in which you list all pieces of code you did not write.**  
+This includes any libraries, source code downloaded, or source code you typed in or adapted from a listing you read.  
+Please use something like the following format _1. Name-Of-Piece-Of-Code URL-to-Source_ 
 
 ### Resources
 
