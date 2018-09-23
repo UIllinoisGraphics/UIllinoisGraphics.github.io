@@ -9,7 +9,7 @@ layout: page
 
 For your second programming assignment you will implement:
 
-1. Support for triangle meshes. Be able to read in a mesh in the OBJ or PLY format. Links to some meshes in the OBJ format are inlcuded below. The backgpround material for this feature is included in *Ray Tracing from the Ground Up Chapter 23 Meshes
+1. Support for triangle meshes. Be able to read in a mesh in the OBJ or PLY format. Links to some meshes in the OBJ format are inlcuded below. The backgpround material for this feature is included in _Ray Tracing from the Ground Up Chapter 23 Meshes_
  
 2. A spatial data structure to accelerate intersection testing 
    A uniform grid is sufficient, but if you wish you could implement any of the following instead:
@@ -17,9 +17,9 @@ For your second programming assignment you will implement:
    2. A Bounding Volume Hierarchy [wikipedia link](https://en.wikipedia.org/wiki/Bounding_volume_hierarchy)
    3. An Octree [wikipedia link](https://en.wikipedia.org/wiki/Octree)
  
-3. Support for shadows. See *Ray Tracing from the Ground Up Chapter 16 Shadows
+3. Support for shadows. See _Ray Tracing from the Ground Up Chapter 16 Shadows_
  
-4. Support for point lights  See *Ray Tracing from the Ground Up Chapter 14 Lights and Materials
+4. Support for point lights  See _Ray Tracing from the Ground Up Chapter 14 Lights and Materials_
  
 5. Implement shading for materials that uses both diffuse and specular reflection
          
@@ -36,7 +36,7 @@ Both images should exhibit:
 + Diffuse and specular reflection
 + Lighting using point lights
 
-**You also need wriet a brief technical report that briefly describes which acceleration structure you implemented.
+**You also need wriet a brief technical report that briefly describes which acceleration structure you implemented.**
 
 Write one paragraph and include a table that shows the time required to render the following:
 + Rendering the mesh without acceleration
@@ -55,7 +55,7 @@ Hand-in will be done on Compass.
 
 + Teapot mesh [OBJ](https://raw.githubusercontent.com/UIllinoisGraphics/CS296/master/Meshes/teapot.obj)
 
-Note that these meshes may need to be scaled and translated to work with easily. You can do so as pre-processing step or you can implement affine transformations in your renderer [Ray Tracing from the Ground Up Chapter 20 Affine Transformations]
+Note that these meshes may need to be scaled and translated to work with easily. You can do so as pre-processing step or you can implement affine transformations in your renderer...see _Ray Tracing from the Ground Up Chapter 20 Affine Transformations_
 
 ### Rubric
 
