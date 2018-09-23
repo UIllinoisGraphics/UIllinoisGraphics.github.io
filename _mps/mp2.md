@@ -9,9 +9,9 @@ layout: page
 
 For your second programming assignment you will implement:
 
-1. Support for triangle meshes.  
+1. Support for reading in and rendering triangle meshes.  
 Be able to read in a mesh in the OBJ or PLY format.  
-See _Ray Tracing from the Ground Up Chapter 23 Meshes_
+See _Ray Tracing from the Ground Up *Chapter 23 Meshe*s_
  
 2. A spatial data structure to accelerate intersection testing. // 
    A uniform grid is sufficient, but if you wish you could implement any of the following instead:
@@ -20,12 +20,12 @@ See _Ray Tracing from the Ground Up Chapter 23 Meshes_
    3. An Octree [wikipedia link](https://en.wikipedia.org/wiki/Octree)
  
 3. Support for shadows.  
-See _Ray Tracing from the Ground Up Chapter 16 Shadows_
+See _Ray Tracing from the Ground Up *Chapter 16 Shadows*_
  
 4. Support for point lights.  
-See _Ray Tracing from the Ground Up Chapter 14 Lights and Materials_
+See _Ray Tracing from the Ground Up *Chapter 14 Lights and Materials*_
  
-5. Implement shading that uses both diffuse and specular reflection
+5. Implement shading that uses both diffuse and specular reflection.
          
 
 ### Hand-in
@@ -46,7 +46,7 @@ Write one paragraph and include a table that shows the **time** required to rend
 + Rendering the mesh without acceleration
 + Rendering the mesh with acceleration
 + Rendering three different scenes with a growing number of spheres \\
-For eample, 100 spheres, 1000 spheres, and 10,000 spheres would .
+For eample, 100 spheres, 1000 spheres, and 10,000 spheres would be reasonable.
 
 Hand-in will be done on Compass.
 
@@ -60,7 +60,7 @@ Hand-in will be done on Compass.
 
 + Teapot mesh [OBJ](https://raw.githubusercontent.com/UIllinoisGraphics/CS296/master/Meshes/teapot.obj)
 
-Note that these meshes may need to be scaled and translated to work with easily. You can do so as pre-processing step or you can implement affine transformations in your renderer...see _Ray Tracing from the Ground Up Chapter 20 Affine Transformations_
+Note that these meshes may need to be scaled and translated to work with easily. You can do so as pre-processing step or you can implement affine transformations in your renderer...see _Ray Tracing from the Ground Up *Chapter 20 Affine Transformations*_
 
 ### Rubric
 
