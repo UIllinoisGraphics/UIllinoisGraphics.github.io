@@ -13,8 +13,8 @@ For your second programming assignment you will implement:
 Be able to read in a mesh in the OBJ or PLY format.  
 See _Ray Tracing from the Ground Up **Chapter 23 Meshes**_
  
-2. A spatial data structure to accelerate intersection testing. // 
-   A uniform grid is sufficient, but if you wish you could implement any of the following instead:
+2. A spatial data structure to accelerate intersection testing.  
+A uniform grid is sufficient, but if you wish you could implement any of the following instead:
    1. A KD-Tree [wikipedia link](https://en.wikipedia.org/wiki/K-d_tree)
    2. A Bounding Volume Hierarchy [wikipedia link](https://en.wikipedia.org/wiki/Bounding_volume_hierarchy)
    3. An Octree [wikipedia link](https://en.wikipedia.org/wiki/Octree)
