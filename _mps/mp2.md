@@ -9,12 +9,14 @@ layout: page
 
 For your second programming assignment you will implement:
 
-1. Support for triangle meshes. Be able to read in a mesh in the OBJ or PLY format. The Stanford 3D Scanning Repository has some meshes you could consider using. [Ray Tracing from the Ground Up Chapter 23 Meshes]
+1. Support for triangle meshes. Be able to read in a mesh in the OBJ or PLY format. 
+   The Stanford 3D Scanning Repository has some meshes you could consider using. [Ray Tracing from the Ground Up Chapter 23 Meshes]
  
-2. A spatial data structure to accelerate intersection testing. A uniform grid is sufficient, but if you wish you could implement any of the following instead:
- 1. A KD-Tree [wikipedia link]
- 2. A Bounding Volume Hierarchy [wikipedia link]
- 3.An Octree [wikipedia link]
+2. A spatial data structure to accelerate intersection testing. 
+   A uniform grid is sufficient, but if you wish you could implement any of the following instead:
+   1. A KD-Tree [wikipedia link](https://en.wikipedia.org/wiki/K-d_tree)
+   2. A Bounding Volume Hierarchy [wikipedia link](https://en.wikipedia.org/wiki/Bounding_volume_hierarchy)
+   3. An Octree [wikipedia link](https://en.wikipedia.org/wiki/Octree)
  
 3. Support for shadows.  [Ray Tracing from the Ground Up Chapter 16 Shadows]
  
@@ -46,9 +48,13 @@ Hand-in will be done on Compass.
 
 ### Resources
 
-Cow mesh [OBJ]
++ Cow mesh [OBJ](https://raw.githubusercontent.com/UIllinoisGraphics/CS296/master/Meshes/cow.obj)
 
-Bunny mesh [OBJ]
++ Bunny mesh [OBJ](https://github.com/UIllinoisGraphics/CS296/blob/master/Meshes/bunny.obj?raw=true)
+
++ Dragon mesh [OBJ](https://raw.githubusercontent.com/UIllinoisGraphics/CS296/master/Meshes/dragon.obj)
+
++ Teapot mesh [OBJ](https://raw.githubusercontent.com/UIllinoisGraphics/CS296/master/Meshes/teapot.obj)
 
 Note that these meshes may need to be scaled and translated to work with easily. You can do so as pre-processing step or you can implement affine transformations in your renderer [Ray Tracing from the Ground Up Chapter 20 Affine Transformations]
 
