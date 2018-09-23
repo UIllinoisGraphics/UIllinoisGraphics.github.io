@@ -9,11 +9,9 @@ layout: page
 
 For your second programming assignment you will implement:
 
-1. Support for triangle meshes. [Ray Tracing from the Ground Up Chapter 23 Meshes]
-Be able to read in a mesh in the OBJ or PLY format. The Stanford 3D Scanning Repository has some meshes you could consider using.
+1. Support for triangle meshes. Be able to read in a mesh in the OBJ or PLY format. The Stanford 3D Scanning Repository has some meshes you could consider using. [Ray Tracing from the Ground Up Chapter 23 Meshes]
  
-2. A spatial data structure to accelerate intersection testing.  [Ray Tracing from the Ground Up Chapter 22 Regular Grids]
-A uniform grid is sufficient, but if you wish you could implement any of the following instead:
+2. A spatial data structure to accelerate intersection testing. A uniform grid is sufficient, but if you wish you could implement any of the following instead:
  1. A KD-Tree [wikipedia link]
  2. A Bounding Volume Hierarchy [wikipedia link]
  3.An Octree [wikipedia link]
@@ -38,6 +36,7 @@ Both images should exhibit
 + Lighting using point lights
 
 You also need wriet a brief technical report that briefly describes which acceleration structure you implemented.
+
 Write one paragraph and include a table that shows the time required to render the following:
 + Rendering the mesh without acceleration
 + Rendering the mesh with acceleration
@@ -45,7 +44,7 @@ Write one paragraph and include a table that shows the time required to render t
 
 Hand-in will be done on Compass.
 
-Resources
+### Resources
 
 Cow mesh [OBJ]
 
