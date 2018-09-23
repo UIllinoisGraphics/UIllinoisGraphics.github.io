@@ -36,12 +36,12 @@ Both images should exhibit:
 + Diffuse and specular reflection
 + Lighting using point lights
 
-**You also need wriet a brief technical report that briefly describes which acceleration structure you implemented.**
+**You also need to write a brief technical report that briefly describes which acceleration structure you implemented.**
 
 Write one paragraph and include a table that shows the time required to render the following:
 + Rendering the mesh without acceleration
 + Rendering the mesh with acceleration
-+ Rendering three different scenes with a growing number of spheres // (e.g. 100 spheres, 1000 spheres, and 10,000 spheres).
++ Rendering three different scenes with a growing number of spheres \\ (e.g. 100 spheres, 1000 spheres, and 10,000 spheres).
 
 Hand-in will be done on Compass.
 
