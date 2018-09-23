@@ -62,7 +62,7 @@ Hand-in will be done on Compass.
 ![Dragon](/assets/img/dragon_snopshot.jpg){:height="100px" width="100px"}
 
 + Teapot mesh [OBJ](https://raw.githubusercontent.com/UIllinoisGraphics/CS296/master/Meshes/teapot.obj)  
-![Teapot](/assets/img/teapot.png){:height="100px" width="100px"}
+![Teapot](/assets/img/teapot.png){:height="130px" width="130px"}
 
 Note that these meshes may need to be scaled and translated to work with easily. You can do so as pre-processing step or you can implement affine transformations in your renderer...see _Ray Tracing from the Ground Up **Chapter 20 Affine Transformations**_
 
