@@ -59,7 +59,7 @@ Hand-in will be done on Compass.
 [Bunny](/assets/img/bunny_snopshot.jpg){:height="50px" width="50px"}
 
 + Dragon mesh [OBJ](https://raw.githubusercontent.com/UIllinoisGraphics/CS296/master/Meshes/dragon.obj)
-[Drago](/assets/img/dragon_snopshot.jpg){:height="50px" width="50px"}
+[Dragon](/assets/img/dragon_snopshot.jpg){:height="50px" width="50px"}
 
 + Teapot mesh [OBJ](https://raw.githubusercontent.com/UIllinoisGraphics/CS296/master/Meshes/teapot.obj)
 [Teapot](/assets/img/teapot.png){:height="50px" width="50px"}
