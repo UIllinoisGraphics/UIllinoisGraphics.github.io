@@ -53,6 +53,7 @@ Hand-in will be done on Compass.
 ### Resources
 
 + Cow mesh [OBJ](https://raw.githubusercontent.com/UIllinoisGraphics/CS296/master/Meshes/cow.obj)
+![Cow](assets/image/cow_snopshot.png){:height="50px" width="50px"}
 
 + Bunny mesh [OBJ](https://github.com/UIllinoisGraphics/CS296/blob/master/Meshes/bunny.obj?raw=true)
 
