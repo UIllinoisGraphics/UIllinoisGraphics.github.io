@@ -1,8 +1,11 @@
+---
+title: MP2
+permalink: "/mp2/"
+layout: page
+---
 
-CS 419: Machine Problem 2
-Accelerated Ray Tracing
-Due: October 12, 11:55pm
- 
+### <span style="color:blue"> Accelerated Ray Tracing </span>
+**Due: October 12, 11:55pm**
 
 For your second programming assignment you will implement:
 
