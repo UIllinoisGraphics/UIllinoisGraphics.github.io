@@ -52,16 +52,16 @@ Hand-in will be done on Compass.
 
 ### Resources
 
-+ Cow mesh [OBJ](https://raw.githubusercontent.com/UIllinoisGraphics/CS296/master/Meshes/cow.obj)
++ Cow mesh [OBJ](https://raw.githubusercontent.com/UIllinoisGraphics/CS296/master/Meshes/cow.obj)  
 ![Cow](/assets/img/cow_snopshot.jpg){:height="50px" width="50px"}
 
-+ Bunny mesh [OBJ](https://github.com/UIllinoisGraphics/CS296/blob/master/Meshes/bunny.obj?raw=true)
++ Bunny mesh [OBJ](https://github.com/UIllinoisGraphics/CS296/blob/master/Meshes/bunny.obj?raw=true)  
 [Bunny](/assets/img/bunny_snopshot.jpg){:height="50px" width="50px"}
 
-+ Dragon mesh [OBJ](https://raw.githubusercontent.com/UIllinoisGraphics/CS296/master/Meshes/dragon.obj)
++ Dragon mesh [OBJ](https://raw.githubusercontent.com/UIllinoisGraphics/CS296/master/Meshes/dragon.obj)  
 [Dragon](/assets/img/dragon_snopshot.jpg){:height="50px" width="50px"}
 
-+ Teapot mesh [OBJ](https://raw.githubusercontent.com/UIllinoisGraphics/CS296/master/Meshes/teapot.obj)
++ Teapot mesh [OBJ](https://raw.githubusercontent.com/UIllinoisGraphics/CS296/master/Meshes/teapot.obj)  
 [Teapot](/assets/img/teapot.png){:height="50px" width="50px"}
 
 Note that these meshes may need to be scaled and translated to work with easily. You can do so as pre-processing step or you can implement affine transformations in your renderer...see _Ray Tracing from the Ground Up **Chapter 20 Affine Transformations**_
