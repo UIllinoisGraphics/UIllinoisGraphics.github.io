@@ -30,13 +30,17 @@ The late policy will to accept MP submissions at a penalty of 10% off per day la
 
 **Coding and Collaboration** 
 
-Unless otherwise specified in the assignment you should feel free to collaborate as long as you document it.
-You must follow the CS 419 Coding Conventions...which will be specified when the first machine problem is assigned.
+Unless otherwise specified in the assignment you should feel free to collaborate on designing a solution to the MPs as long as you document your collaborators. Submit the name and netids of all collaborators in a README.txt file along with your code submission. Each person should type in the code on their own, rather than simply sharing files or copying and pasting. Each required image submission should be a unique scene, meaning each collaorator should submit scenes they have created themselves. 
+
+In addition, you must follow the CS 419 Coding Conventions...which consist of supplying a list of all libraries or other code grabbed and/or copied in your project. In the same README.txt file, list each software resource on a separate line using a format of:  
+
+1. _Name_of_resource_ _url_or_other_reference_
+2. _etc._
 
 ​**Exams** 
 
 There will be two exams.
-The exams will in be class and the dates will be announced by the second of class
+The exams will in be class and the tentative dates are **Oct. 10** and **Dec. 5**
 Each exam is worth 20% of the course grade.
 The exams will be multiple-choice and consist of 21 questions graded out of 20 questions.
 The exams will draw heavily on the assigned reading. 
