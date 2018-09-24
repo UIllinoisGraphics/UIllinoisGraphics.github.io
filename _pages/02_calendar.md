@@ -46,6 +46,6 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Sep 25**   | Meshes             |[Lecture 9](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-16-Geometric%20Modeling%20with%20Meshes.pptx?raw=true)  | | |
+|**Sep 25**   | Meshes             |[Lecture 9](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-16-Geometric%20Modeling%20with%20Meshes.pptx?raw=true)  | |[**MP 2 Due Oct 12**](https://uillinoisgraphics.github.io/mp2/) |
 |      |  | [Worksheet4](https://github.com/shaffer1/UIllinois_Rendering/raw/master/CS%20419-Worksheet4.pdf)| | |
 |===
