@@ -41,6 +41,11 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Sep 19**   | Meshes             |[Lecture 8](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-16-Geometric%20Modeling%20with%20Meshes.pptx?raw=true)  | |Read _Ray Tracing from the Ground Up_ chapters 22 and 23|
-|      | Uniform Grids | [Lecture 9](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-17-Grids.pptx?raw=true)| | |
+|**Sep 19**   | Uniform Grids             |[Lecture 8](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-17-Grids.pptx?raw=true) | |Read _Ray Tracing from the Ground Up_ chapters 22 and 23|
+|      |  |[Worksheet3](https://github.com/shaffer1/UIllinois_Rendering/raw/master/CS%20419-Worksheet3.pdf) | | |
+|------------|-------------------|-------------|---------|--------------|
+|------------|-------------------|-------------|---------|--------------|
+|:-----------|:------------------|:------------|:--------|:-------------|
+|**Sep 25**   | Meshes             |[Lecture 9](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-16-Geometric%20Modeling%20with%20Meshes.pptx?raw=true)  | | |
+|      |  | [Worksheet4](https://github.com/shaffer1/UIllinois_Rendering/raw/master/CS%20419-Worksheet4.pdf)| | |
 |===
