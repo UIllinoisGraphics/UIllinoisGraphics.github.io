@@ -30,12 +30,11 @@ The late policy will to accept MP submissions at a penalty of 10% off per day la
 
 **Coding and Collaboration** 
 
-Unless otherwise specified in the assignment you should feel free to collaborate on designing a solution to the MPs as long as you document your collaborators. Submit the name and netids of all collaborators in a README.txt file along with your code submission. Each person should type in the code on their own, rather than simply sharing files or copying and pasting. Each required image submission should be a unique scene, meaning each collaorator should submit scenes they have created themselves. 
+Unless otherwise specified in the assignment, you should feel free to collaborate on designing a solution to the MPs. You must document your collaborators. Submit the name and netids of all collaborators in a README.txt file along with your code submission. Each person should type in the code on their own, rather than simply sharing files or copying and pasting. Each required image submission should be a unique scene, meaning each collaorator should submit scenes they have created themselves. 
 
 In addition, you must follow the CS 419 Coding Conventions...which consist of supplying a list of all libraries or other code grabbed and/or copied in your project. In the same README.txt file, list each software resource on a separate line using a format of:  
 
-1. _Name_of_resource_ _url_or_other_reference_
-2. _etc._
+_(Name of Resource)_ _(url or other reference)_
 
 ​**Exams** 
 
