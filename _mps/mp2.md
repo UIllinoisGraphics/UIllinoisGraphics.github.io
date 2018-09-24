@@ -24,7 +24,8 @@ See _Ray Tracing from the Ground Up **Chapter 16 Shadows**_
 4. Support for point lights.  
 See _Ray Tracing from the Ground Up **Chapter 14 Lights and Materials**_
  
-5. Implement shading that uses both diffuse and specular reflection.
+5. Shading that uses both diffuse and specular reflection.  
+You can use the Phong reflection model [wikipedia link](https://en.wikipedia.org/wiki/Phong_reflection_model)
          
 ### Hand-in
 
