@@ -32,9 +32,9 @@ You can use the Phong reflection model [wikipedia link](https://en.wikipedia.org
 1. You will hand in your code and 2 images:
 
 + One rendering of a scene with a lot of spheres...feel free to add other stuff if you wish.
-+ One rendering of an interesting triangle mesh...feel free to add other stuff if you wish.
++ One rendering of an interesting triangle mesh...feel free to add other stuff if you wish.  
 
-Both images should exhibit:
+Both images should exhibit:  
 + Shadows
 + Diffuse and specular reflection
 + Lighting using point lights
