@@ -29,7 +29,7 @@ You can use the Phong reflection model [wikipedia link](https://en.wikipedia.org
          
 ### Hand-in
 
-1. You will hand in your code and 2 images:
+**You will hand in your code and 2 images:**
 
 + One rendering of a scene with a lot of spheres...feel free to add other stuff if you wish.
 + One rendering of an interesting triangle mesh...feel free to add other stuff if you wish.  
@@ -39,7 +39,7 @@ Both images should exhibit:
 + Diffuse and specular reflection
 + Lighting using point lights
 
-2. **You also need to write a brief technical report that briefly describes which acceleration structure you implemented.**
+**You also need to write a brief technical report that briefly describes which acceleration structure you implemented.**
 
 Write one paragraph and include a table that shows the **time** required to render the following:
 + Rendering the mesh without acceleration
@@ -47,7 +47,7 @@ Write one paragraph and include a table that shows the **time** required to rend
 + Rendering three different scenes with a growing number of spheres \\
 For eample, 100 spheres, 1000 spheres, and 10,000 spheres would be reasonable.
 
-3. **Include a README.txt file in which you list all pieces of code you did not write.**  
+**Include a README.txt file in which you list all pieces of code you did not write.**  
 This includes any libraries, source code downloaded, or source code you typed in or adapted from a listing you read.  
 Please use something like the following format _1. Name-Of-Piece-Of-Code URL-to-Source_ 
 
