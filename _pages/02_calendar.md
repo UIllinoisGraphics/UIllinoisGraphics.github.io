@@ -55,8 +55,8 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Oct 1**   | KD Trees |[Lecture 11](https://courses.engr.illinois.edu/cs419/sp2017/Lecture-20-KD%20Trees.pdf)  | | | [Read _Physically Based Rendering_ chapter 4](https://www.pbrt.org/chapters/pbrt-2ed-chap4.pdf)|
-|            | BVHs     |[Lecture 12](https://courses.engr.illinois.edu/cs419/sp2017/Lecture-19-BVH%20and%20Octrees.pdf)  | | | |
+|**Oct 1**   | KD Trees |[Lecture 11](https://courses.engr.illinois.edu/cs419/sp2017/Lecture-20-KD%20Trees.pdf)  | | [Read _Physically Based Rendering_ chapter 4](https://www.pbrt.org/chapters/pbrt-2ed-chap4.pdf)|
+|            | BVHs     |[Lecture 12](https://courses.engr.illinois.edu/cs419/sp2017/Lecture-19-BVH%20and%20Octrees.pdf)  | |
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
