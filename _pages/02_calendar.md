@@ -55,7 +55,7 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Oct 1**   | KD Trees |[Lecture 11](https://courses.engr.illinois.edu/cs419/sp2017/Lecture-20-KD%20Trees.pdf)  | | [Read _Physically Based Rendering_ chapter 4](https://www.pbrt.org/chapters/pbrt-2ed-chap4.pdf)|
+|**Oct 1**   | KD Trees |[Lecture 11](https://courses.engr.illinois.edu/cs419/sp2017/Lecture-20-KD%20Trees.pdf)  | | [_Physically Based Rendering_ ch 4](https://www.pbrt.org/chapters/pbrt-2ed-chap4.pdf)|
 |            | BVHs     |[Lecture 12](https://courses.engr.illinois.edu/cs419/sp2017/Lecture-19-BVH%20and%20Octrees.pdf)  | |
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
@@ -68,5 +68,5 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Oct 10**   | **Midterm Exam 1** | | | [Topic List](https://piazza.com/class/jl41t1dbeoy1ga) |
+|**Oct 10**   | **Midterm Exam 1** | | | [Topic List](https://piazza.com/class/jl41t1dbeoy1ga?cid=31) |
 |===
