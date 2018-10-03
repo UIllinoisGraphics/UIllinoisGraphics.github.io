@@ -47,20 +47,20 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Sep 25**   | Meshes             |[Lecture 9](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-16-Geometric%20Modeling%20with%20Meshes.pptx?raw=true)  | |[**MP 2 Due Oct 12**](https://uillinoisgraphics.github.io/mp2/) |
-|      |  | [Worksheet4](https://github.com/shaffer1/UIllinois_Rendering/raw/master/CS%20419-Worksheet4.pdf)| | |
+|      |  | [Worksheet4](https://github.com/shaffer1/UIllinois_Rendering/raw/master/CS%20419-Worksheet4.pdf)| |Read _Ray Tracing from the Ground Up_ chapters 23|
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Sep 27**   | Affine Transformations |[Lecture 10](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-21-Affine%20Transformations.pptx?raw=true)  | | |
+|**Sep 27**   | Affine Transformations |[Lecture 10](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-21-Affine%20Transformations.pptx?raw=true)  | |Read _Ray Tracing from the Ground Up_ chapters 20 and 21|
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Oct 1**   | KD Trees |[Lecture 11](https://courses.engr.illinois.edu/cs419/sp2017/Lecture-20-KD%20Trees.pdf)  | | | |
+|**Oct 1**   | KD Trees |[Lecture 11](https://courses.engr.illinois.edu/cs419/sp2017/Lecture-20-KD%20Trees.pdf)  | | | [Read _Physically Based Rendering_ chapter 4](https://www.pbrt.org/chapters/pbrt-2ed-chap4.pdf)|
 |            | BVHs     |[Lecture 12](https://courses.engr.illinois.edu/cs419/sp2017/Lecture-19-BVH%20and%20Octrees.pdf)  | | | |
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Oct 3**   | Basic Monte Carlo Methods |[Lecture 13](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-7-MonteCarlo.pptx?raw=true)  | | |
+|**Oct 3**   | Basic Monte Carlo Methods |[Lecture 13](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-7-MonteCarlo.pptx?raw=true)  | |Read _Ray Tracing from the Ground Up_ chapter 13|
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
