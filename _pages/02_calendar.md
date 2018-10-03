@@ -61,6 +61,7 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Oct 3**   | Basic Monte Carlo Methods |[Lecture 13](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-7-MonteCarlo.pptx?raw=true)  | |Read _Ray Tracing from the Ground Up_ chapter 13|
+|||[Worksheet 5](https://github.com/shaffer1/UIllinois_Rendering/raw/master/CS%20419-Worksheet5.pdf)|||
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
