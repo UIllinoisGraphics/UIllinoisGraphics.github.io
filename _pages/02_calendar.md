@@ -66,6 +66,7 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Oct 8**   | The Rendering Equation |[Lecture 14](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-12-Rendering%20Equation.pptx?raw=true)  | | |
+|||[Worksheet6](https://github.com/shaffer1/UIllinois_Rendering/raw/master/CS%20419-Worksheet6.pdf)|||
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
