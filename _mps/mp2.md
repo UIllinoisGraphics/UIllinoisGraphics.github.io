@@ -5,7 +5,7 @@ layout: page
 ---
 
 ### <span style="color:blue"> Accelerated Ray Tracing </span>
-**Due: October 12, 11:55pm**
+**Due: October 16, 11:55pm**
 
 For your second programming assignment you will implement:
 
