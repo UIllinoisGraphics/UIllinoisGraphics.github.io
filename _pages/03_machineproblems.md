@@ -10,7 +10,7 @@ layout: page
 |-----------------|:-----------|:---------------|
 | [Machine Problem 2](/mp2) |&nbsp; &nbsp; &nbsp; &nbsp; **Released Sept 23**| &nbsp; &nbsp; &nbsp; &nbsp; **Due Oct 12** | 
 |-----------------+------------+-----------------| 
-| Machine Problem 3 | | 
+| [Machine Problem 3](/mp3) |&nbsp; &nbsp; &nbsp; &nbsp; **Released Oct 22**| &nbsp; &nbsp; &nbsp; &nbsp; **Due Nov 8** | 
 | -----------------+------------+----------------| 
 | Machine Problem 4 | |                      |
 | -----------------+------------+-----------------| 
