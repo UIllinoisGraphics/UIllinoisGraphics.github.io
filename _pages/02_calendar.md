@@ -79,8 +79,18 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Oct 17**   | Area Lights      |[Lecture 15](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-15-Area%20Lights.pptx?raw=true)  | | |
-||||||
+|**Oct 17**   | Basic BRDFs      |[Lecture 15]()  | | |
+|||[Lecture 16](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-15-Specular%20BRDFs.pptx?raw=true)|||
+|------------|-------------------|-------------|---------|--------------|
+|------------|-------------------|-------------|---------|--------------|
+|:-----------|:------------------|:------------|:--------|:-------------|
+|**Oct 22**   | Area Lights      |[Lecture 17](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-23-Area%20Lights.pptx?raw=true)  | | |
+|||[Worksheet 7]()|||
+|------------|-------------------|-------------|---------|--------------|
+|------------|-------------------|-------------|---------|--------------|
+|:-----------|:------------------|:------------|:--------|:-------------|
+|**Oct 24**   | Reflection      |[Lecture 18](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-24%20Mirror%20Reflection.pptx?raw=true)  | | |
+|||[Lecture 19](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-25%20Glossy%20Reflection.pptx?raw=true) |||
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
