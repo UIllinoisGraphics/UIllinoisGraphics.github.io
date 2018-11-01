@@ -65,7 +65,7 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Oct 8**   | The Rendering Equation |[Lecture 14](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-12-Rendering%20Equation.pptx?raw=true)  | | Read Ray Tracing from the Ground Up chapter 13 |
+|**Oct 8**   | The Rendering Equation |[Lecture 14](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-12-Rendering%20Equation.pptx?raw=true)  | | Read _Ray Tracing from the Ground Up_ chapter 13 |
 |||[Worksheet6](https://github.com/shaffer1/UIllinois_Rendering/raw/master/CS%20419-Worksheet6.pdf)|||
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
@@ -80,35 +80,35 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Oct 17**   | Basic BRDFs      |[Lecture 15]()  | | |
-|||[Lecture 16](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-15-Specular%20BRDFs.pptx?raw=true)||Read Ray Tracing from the Ground Up chapter 14|
+|||[Lecture 16](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-15-Specular%20BRDFs.pptx?raw=true)||Read _Ray Tracing from the Ground Up_ chapter 14|
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Oct 22**   | Area Lights      |[Lecture 17](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-23-Area%20Lights.pptx?raw=true)  | |Read Ray Tracing from the Ground Up chapter 18 |
+|**Oct 22**   | Area Lights      |[Lecture 17](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-23-Area%20Lights.pptx?raw=true)  | |Read _Ray Tracing from the Ground Up_ chapter 18 |
 |||[Worksheet 7]()|||
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Oct 24**   | Reflection      |[Lecture 18](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-24%20Mirror%20Reflection.pptx?raw=true)  | | Read Ray Tracing from the Ground Up chapters 24 and 25 |
+|**Oct 24**   | Reflection      |[Lecture 18](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-24%20Mirror%20Reflection.pptx?raw=true)  | | Read _Ray Tracing from the Ground Up_ chapters 24 and 25 |
 |||[Lecture 19](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-25%20Glossy%20Reflection.pptx?raw=true) |||
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Oct 29**   | Path Tracing      |[Lecture 20](https://github.com/shaffer1/UIllinois_Rendering/raw/master/Lecture%2026%20-%20Path%20Tracing.pptx)  | |Read Ray Tracing from the Ground Up chapter 26 |
+|**Oct 29**   | Path Tracing      |[Lecture 20](https://github.com/shaffer1/UIllinois_Rendering/raw/master/Lecture%2026%20-%20Path%20Tracing.pptx)  | |Read _Ray Tracing from the Ground Up_ chapter 26 |
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Oct 31**   | Transparency |[Lecture 21](https://github.com/shaffer1/UIllinois_Rendering/raw/master/419-Lecture%2028-Simple%20Transparency.pptx) | |Read Ray Tracing from the Ground Up chapter 27|
+|**Oct 31**   | Transparency |[Lecture 21](https://github.com/shaffer1/UIllinois_Rendering/raw/master/419-Lecture%2028-Simple%20Transparency.pptx) | |Read _Ray Tracing from the Ground Up_ chapter 27|
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Nov 5**   |Texture Mapping |||Read Ray Tracing from the Ground Up chapters 29 and 30|
-||Procedural Textures|||Read Ray Tracing from the Ground Up chapter 31|
+||Procedural Textures|||Read _Ray Tracing from the Ground Up_ chapter 31|
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Nov 7**   |Radiosity||||
-||Stereo|||Read Ray Tracing from the Ground Up chapter 12|
+||Stereo|||Read _Ray Tracing from the Ground Up_ chapter 12|
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
@@ -140,7 +140,8 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Dec 3**   |Guest Lecture: Kalina Borkiewicz ||||
-|------------|HDRI|-------------|---------|--------------|
+||HDRI||||
+|------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Dec 5**   |**Midterm Exam 2**||||
