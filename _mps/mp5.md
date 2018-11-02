@@ -4,20 +4,25 @@
 ### <span style="color:blue"> Path Tracing and Irradiance Caching  </span>
 **Due: December 12, 11:55pm**
 **For 4 Credit Students Only**
+
 ![Cornell Box](/assets/img/box.jpg){:height="200px" width="200px"}
+
 For your 4 credit programming assignment you will:
 
-1. Create a scene matching the Cornell Box
+1. **Create a scene matching the Cornell Box**
+
 You can find data for the geometry [here](http://www.graphics.cornell.edu/online/box/data.html).
 You needn't match the surface reflectances exactly, but your model should look **very** close to the image above.
 The surfaces can all be diffuse materials, with just the one overhead area light.  
 
-2. Implement a path tracer.  
+2. **Implement a path tracer.**
+
 See _Ray Tracing from the Ground Up **Chapter 26 Mirror Global Illumination**_ 
 To speed up convergence, you can compute direct lighting and indirect lighting separately, as the book does. 
 You might also want to try _Russian Roulette_ but that is not required. 
  
-3. Implement irradiance caching.  
+3. **Implement irradiance caching.**  
+
 See [_Practical Global Illumination with Irradiance Caching_ by Krivaenk and Gautron](http://courses.engr.illinois.edu/cs498vr3/fa2018/secure/irradiance.pdf).
 You only need to implement the basic algorithm, although if you have time you might wish wish to implement irradiance gradients.
 I would strongly suggest implementing a two-pass algorithm. Your render will likely not be perfect and that is fine. It should be good. You will likely need to experiment with parameters (the error term and weights), so give yourself time to work on this and use small image sizes for experiments and larger for your final render.
@@ -37,8 +42,7 @@ Write a report that:
 + provides the technical specifications of the hardware you ran on
 + states which language(s) your implementaion is written in
 + provides a table that shows the **time** and **number of rays** required to render each of your 3 path-traced images
-+ provides a statement of time required to render the scence with irradiance caching. 
-Measure the time to generate the irradiance samples and the time render separately as well. This is easy if you employ two-pass rendering.
++ provides a statement of time required to render the scence with irradiance caching. Measure the time to generate the irradiance samples and the time render separately as well. This is easy if you employ two-pass rendering.
 + include a paragraph or two describing how you implemented path tracing.
 + include a paragraph or describing your implementation of irradiance caching.
 **Include a README.txt file in which you list all pieces of code you did not write.**  
