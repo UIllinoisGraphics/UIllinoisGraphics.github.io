@@ -1,4 +1,7 @@
 ---
+title: MP5
+permalink: "/mp5/"
+layout: page
 ---
 
 ### <span style="color:blue"> Path Tracing and Irradiance Caching  </span>
