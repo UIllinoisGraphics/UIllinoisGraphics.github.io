@@ -18,7 +18,7 @@ To speed up convergence, you can compute direct lighting and indirect lighting s
 You might also want to try _Russian Roulette_ but that is not required. 
  
 3. Implement irradiance caching.  
-See _Practical Global Illumination with Irradiance Caching_ by Krivaenk and Gautron(link coming soon...).
+See [_Practical Global Illumination with Irradiance Caching_ by Krivaenk and Gautron](http://courses.engr.illinois.edu/cs498vr3/fa2018/secure/irradiance.pdf).
 You only need to implement the basic algorithm, although if you have time you might wish wish to implement irradiance gradients.
 I would strongly suggest implementing a two-pass algorithm. Your render will likely not be perfect and that is fine. It should be good. You will likely need to experiment with parameters (the error term and weights), so give yourself time to work on this and use small image sizes for experiments and larger for your final render.
          
