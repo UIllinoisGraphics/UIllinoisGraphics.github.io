@@ -12,7 +12,7 @@ layout: page
 
 For your 4 credit programming assignment you will:
 
-1. **Create a scene matching the Cornell Box** You can find data for the geometry [here](http://www.graphics.cornell.edu/online/box/data.html). You needn't match the surface reflectances exactly, but your model should look **very** close to the image above. The surfaces can all be diffuse materials, with just the one overhead area light.  
+1. **Create a scene matching the Cornell Box.** You can find data for the geometry [here](http://www.graphics.cornell.edu/online/box/data.html). You needn't match the surface reflectances exactly, but your model should look **very** close to the image above. The surfaces can all be diffuse materials, with just the one overhead area light.  
 
 2. **Implement a path tracer.** See _Ray Tracing from the Ground Up **Chapter 26 Mirror Global Illumination**_ To speed up convergence, you can compute direct lighting and indirect lighting separately, as the book does. You might also want to try _Russian Roulette_ but that is not required. 
  
