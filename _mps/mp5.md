@@ -37,8 +37,7 @@ Write a report that:
 + include a paragraph or two describing how you implemented path tracing.
 + include a paragraph or describing your implementation of irradiance caching.
 **Include a README.txt file in which you list all pieces of code you did not write.**  
-This includes any libraries, source code downloaded, or source code you typed in or adapted from a listing you read.  
-Please use something like the following format _1. Name-Of-Piece-Of-Code URL-to-Source_ 
+This includes any libraries, source code downloaded, or source code you typed in or adapted from a listing you read. Please use something like the following format _1. Name-Of-Piece-Of-Code URL-to-Source_ 
 
 Hand-in will be done on Compass.
 
