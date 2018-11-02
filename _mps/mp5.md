@@ -14,7 +14,7 @@ For your 4 credit programming assignment you will:
 
 1. **Create a scene matching the Cornell Box.** You can find data for the geometry [here](http://www.graphics.cornell.edu/online/box/data.html). You needn't match the surface reflectances exactly, but your model should look **very** close to the image above. The surfaces can all be diffuse materials, with just the one overhead area light.  
 
-2. **Implement a path tracer.** See _Ray Tracing from the Ground Up **Chapter 26 Mirror Global Illumination**_ To speed up convergence, you can compute direct lighting and indirect lighting separately, as the book does. You might also want to try _Russian Roulette_ but that is not required. 
+2. **Implement a path tracer.** See _Ray Tracing from the Ground Up_ Chapter 26 Global Illumination. To speed up convergence, you can compute direct lighting and indirect lighting separately, as the book does. You might also want to try _Russian Roulette_ but that is not required. 
  
 3. **Implement irradiance caching.** See [_Practical Global Illumination with Irradiance Caching_ by Krivaenk and Gautron](http://courses.engr.illinois.edu/cs498vr3/fa2018/secure/irradiance.pdf). You only need to implement the basic algorithm, although if you have time you might wish wish to implement irradiance gradients. I would strongly suggest implementing a two-pass algorithm. Your render will likely not be perfect and that is fine. It should be good. You will likely need to experiment with parameters (the error term and weights), so give yourself time to work on this and use small image sizes for experiments and larger for your final render.
          
