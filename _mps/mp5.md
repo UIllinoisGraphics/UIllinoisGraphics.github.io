@@ -1,7 +1,4 @@
 ---
-title: MP5: 4 Credit MP
-permalink: "/mp5/"
-layout: page
 ---
 
 ### <span style="color:blue"> Path Tracing and Irradiance Caching  </span>
