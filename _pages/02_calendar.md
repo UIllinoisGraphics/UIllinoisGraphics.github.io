@@ -102,12 +102,12 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Nov 5**   |Texture Mapping |||Read Ray Tracing from the Ground Up chapters 29 and 30|
-||Procedural Textures|||Read _Ray Tracing from the Ground Up_ chapter 31|
+|**Nov 5**   |Procedural Textures |[Lecture 22](https://github.com/shaffer1/UIllinois_Rendering/raw/master/419-Lecture%2031-ProceduralTextures.pptx)||Read Ray Tracing from the Ground Up chapters 29 and 30|
+||Noise Textures|[Lecture23](https://github.com/shaffer1/UIllinois_Rendering/raw/master/419-Lecture%2032-NoiseTextures.pptx)||Read _Ray Tracing from the Ground Up_ chapter 31|
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Nov 7**   |Radiosity||||
+|**Nov 7**   |Radiosity|[Lecture 24](https://github.com/shaffer1/UIllinois_Rendering/raw/master/Lecture-34%20Radiosity.pptx)|||
 ||Stereo|||Read _Ray Tracing from the Ground Up_ chapter 12|
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
