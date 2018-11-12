@@ -15,7 +15,7 @@ For your final programming assignment you will create a scene with the following
 
 2. **An object with a procedural volumetric texture.** See _Ray Tracing from the Ground Up_ Chapter 30.  
  
-3. **An object modeled using Constructive Solid Geometry(CSG). ** See [CSG entry on Wikipedia](https://en.wikipedia.org/wiki/Constructive_solid_geometry). 
+3. **An object modeled using Constructive Solid Geometry(CSG).** See [CSG entry on Wikipedia](https://en.wikipedia.org/wiki/Constructive_solid_geometry). 
          
 ### Hand-in
 
@@ -44,7 +44,8 @@ Hand-in will be done on Compass
 | **TOTAL**	                 |15        |
 |===
 | 
-** Extra Credit  **
+
+**Extra Credit **
 
 For extra credit, you can implement one or more of the below features. Some of these are difficult and should be approached realistically if you think you won't have much time. The optimal credit per time selection is probably choice number 3...making something that looks awesome 
 
