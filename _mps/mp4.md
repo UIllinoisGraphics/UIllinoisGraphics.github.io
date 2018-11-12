@@ -61,7 +61,7 @@ For extra credit, you can implement one or more of the below features. Some of t
 In each case, **partial credit will be awarded sparingly**. Your implementation must produce pretty good results to get credit.
 
 Hand-in will be done on Compass and **in class**.
-The extra-credit feature(s) must be shown and described in class on Dec. 12. If we run out of time before you can present, you'll still get credit if you were ready to be present.  
+The extra-credit feature(s) must be shown and described in class on Dec. 12. If we run out of time before you can present, you'll still get credit if you were ready to present.  
 
 ### Rubric
 
