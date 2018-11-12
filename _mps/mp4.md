@@ -20,7 +20,7 @@ For your final programming assignment you will create a scene with the following
          
 ### Hand-in
 
-**You will hand in your code and at least one (or more images) demonstrating the above features.**
+**Hand in your code and one or more images demonstrating the above features.**
 
 **You also need to write a brief technical report**
 
