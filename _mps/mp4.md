@@ -11,11 +11,11 @@ layout: page
 
 For your final programming assignment you will create a scene with the following components:
 
-1. **An object with a noise-based texture.** See _Ray Tracing from the Ground Up_ Chapter 31 
+1. **An object with a noise-based texture.<br/>** See _Ray Tracing from the Ground Up_ Chapter 31 
 
-2. **An object with a procedural volumetric texture.** See _Ray Tracing from the Ground Up_ Chapter 30.  
+2. **An object with a procedural volumetric texture.<br/>** See _Ray Tracing from the Ground Up_ Chapter 30.  
  
-3. **An object modeled using Constructive Solid Geometry(CSG).** 
+3. **An object modeled using Constructive Solid Geometry(CSG).**<br/> 
   See [CSG entry on Wikipedia](https://en.wikipedia.org/wiki/Constructive_solid_geometry). 
          
 ### Hand-in
@@ -54,9 +54,9 @@ For extra credit, you can implement one or more of the below features. Some of t
 
 **1. Photon Mapping.** This has a fairly high level of difficulty. Your work must demonstrate it's use by rendering a scene with caustics and/or subsurface scattering and/or participating media. See [_High Quality Rendering using Ray Tracing and Photon Mapping_ by Henrik Wann Jensen and Per Christian](https://graphics.pixar.com/library/HQRenderingCourse/paper.pdf)
 
-**2. Animation.** Create a reasonable animation...at least 10 seconds and demonstrating some creativity and a good framerate (at least 24 fps). Submit the movie in a common format or (preferably) upload it to YouTube. Your animation does not have to be the scene from this (or any other) MP...you can do something totally new or add movement to an existing scene.
+**2. Animation.** Create a reasonable animation...at least 10 seconds and demonstrating some creativity and a good framerate (at least 24 fps). Submit the movie in a common format or (preferably) upload it to YouTube. Your animation does not have to be the scene from this or any other MP...you can do something totally new. Or you can add movement to an existing scene.
 
-**3. Render something that looks awesome.** Be ambitious with your scene. Points are awarded solely on my judgement and I am not going to argue about it :) You could consider adding some features we have or will have discuss, like motion blur (see [_Ray-Tracing: The Next Weekend_by Peter Shirley_](https://www.amazon.com/gp/product/B01CO7PQ8C/ref=dbs_a_def_rwt_bibl_vppi_i1)...or just create a really cool image based on the existing tools you have.
+**3. Render something that looks awesome.** Be ambitious with your scene. Points are awarded solely on my judgement and I am not going to argue about it :) You could consider adding some cool but simple features like motion blur (see [_Ray-Tracing: The Next Weekend_by Peter Shirley_](https://www.amazon.com/gp/product/B01CO7PQ8C/ref=dbs_a_def_rwt_bibl_vppi_i1)...or just create a really cool image based on the existing tools you have.
 
 In each case, **partial credit will be awarded sparingly**. Your implementation must produce pretty good results to get credit.
 
