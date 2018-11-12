@@ -54,7 +54,7 @@ For extra credit, you can implement one or more of the below features. Some of t
 
 **1. Photon Mapping**<br/> This has a fairly high level of difficulty. Your work must demonstrate it's use by rendering a scene with caustics and/or subsurface scattering and/or participating media. See [_High Quality Rendering using Ray Tracing and Photon Mapping_ by Henrik Wann Jensen and Per Christian](https://graphics.pixar.com/library/HQRenderingCourse/paper.pdf)
 
-**2. Animation**<br/> Create a reasonable animation...at least 10 seconds and demonstrating some creativity and a good framerate (at least 24 fps). Submit the movie in a common format or (preferably) upload it to YouTube. Your animation does not have to be the scene from this or any other MP...you can do something totally new. Or you can add movement to an existing scene.
+**2. Animation**<br/> Create a reasonable animation...at least 5 seconds and demonstrating some creativity and a good framerate (at least 24 fps). Submit the movie in a common format or (preferably) upload it to YouTube. Your animation does not have to be the scene from this or any other MP...you can do something totally new. Or you can add movement to an existing scene.
 
 **3. Render something that looks awesome**<br/> Be ambitious with your scene. Up to 5 points are awarded solely on my judgement and I am not going to argue about it :) You could consider adding some cool but simple features like motion blur (see [_Ray-Tracing: The Next Weekend_by Peter Shirley_](https://www.amazon.com/gp/product/B01CO7PQ8C/ref=dbs_a_def_rwt_bibl_vppi_i1))...or just create a really cool image based on the existing tools you have.
 
