@@ -99,6 +99,7 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Oct 31**   | Transparency |[Lecture 21](https://github.com/shaffer1/UIllinois_Rendering/raw/master/419-Lecture%2028-Simple%20Transparency.pptx) | |Read _Ray Tracing from the Ground Up_ chapter 27|
+|||[Worksheet 8](https://github.com/shaffer1/UIllinois_Rendering/raw/master/CS%20419-Worksheet8.pdf)|||
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
