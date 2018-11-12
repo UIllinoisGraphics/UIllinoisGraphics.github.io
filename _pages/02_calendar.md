@@ -66,7 +66,7 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Oct 8**   | The Rendering Equation |[Lecture 14](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-12-Rendering%20Equation.pptx?raw=true)  | | Read _Ray Tracing from the Ground Up_ chapter 13 |
-|||[Worksheet6](https://github.com/shaffer1/UIllinois_Rendering/raw/master/CS%20419-Worksheet6.pdf)|||
+|||[Worksheet 6](https://github.com/shaffer1/UIllinois_Rendering/raw/master/CS%20419-Worksheet6.pdf)|||
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
@@ -112,8 +112,8 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Nov 12**  |Fluids||||
-||||||
+|**Nov 12**  |CSG Modeling||Lecture 25](https://github.com/shaffer1/UIllinois_Rendering/raw/master/Lecture-35%20Geometric%20Modeling.pptx)||
+||[Worksheet 9](https://github.com/shaffer1/UIllinois_Rendering/raw/master/CS419-Worksheet10.pdf)||||
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
