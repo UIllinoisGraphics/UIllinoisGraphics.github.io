@@ -15,7 +15,8 @@ For your final programming assignment you will create a scene with the following
 
 2. **An object with a procedural volumetric texture.** See _Ray Tracing from the Ground Up_ Chapter 30.  
  
-3. **An object modeled using Constructive Solid Geometry(CSG).** See [CSG entry on Wikipedia](https://en.wikipedia.org/wiki/Constructive_solid_geometry). 
+3. **An object modeled using Constructive Solid Geometry(CSG).** 
+  See [CSG entry on Wikipedia](https://en.wikipedia.org/wiki/Constructive_solid_geometry). 
          
 ### Hand-in
 
