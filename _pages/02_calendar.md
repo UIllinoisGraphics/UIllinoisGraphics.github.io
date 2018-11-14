@@ -119,9 +119,7 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Nov 14**  |[Photon Mapping](https://github.com/shaffer1/UIllinois_Rendering/raw/master/Lecture-40%20Photon%20Mapping.pdf)|||[A Practical Guide to
-Global Illumination using
-Photon Maps](https://github.com/shaffer1/UIllinois_Rendering/raw/master/course8.pdf)|
+|**Nov 14**  |[Photon Mapping](https://github.com/shaffer1/UIllinois_Rendering/raw/master/Lecture-40%20Photon%20Mapping.pdf)|||[A Practical Guide to Global Illumination using Photon Maps](https://github.com/shaffer1/UIllinois_Rendering/raw/master/course8.pdf)|
 |||[Worksheet 10](https://github.com/shaffer1/UIllinois_Rendering/raw/master/CS419-Worksheet11.pdf)|||
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
