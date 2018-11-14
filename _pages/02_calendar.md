@@ -113,14 +113,16 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Nov 12**  |CSG Modeling|[Lecture 25](https://github.com/shaffer1/UIllinois_Rendering/raw/master/Lecture-35%20Geometric%20Modeling.pptx)||
+|**Nov 12**  |CSG Modeling|[Lecture 25](https://github.com/shaffer1/UIllinois_Rendering/raw/master/Lecture%2037%20-%20Implicits.pptx)||
 |||[Worksheet 9](https://github.com/shaffer1/UIllinois_Rendering/raw/master/CS419-Worksheet10.pdf)|||
 ||||||
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Nov 14**  |Photon Mapping||||
-||Stereo|||Read _Ray Tracing from the Ground Up_ chapter 12|
+|**Nov 14**  |[Photon Mapping](https://github.com/shaffer1/UIllinois_Rendering/raw/master/Lecture-40%20Photon%20Mapping.pdf)|||[A Practical Guide to
+Global Illumination using
+Photon Maps](https://github.com/shaffer1/UIllinois_Rendering/raw/master/course8.pdf)|
+|||[Worksheet 10](https://github.com/shaffer1/UIllinois_Rendering/raw/master/CS419-Worksheet11.pdf)|||
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
