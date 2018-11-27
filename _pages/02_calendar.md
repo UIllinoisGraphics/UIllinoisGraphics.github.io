@@ -138,13 +138,13 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Nov 28**  |High Dynamnic Range||||
-|            |Brief Intro to Microfacet BRDFs|||| 
-|            |Volumetric Light Scattering (GDC 2016)|[NVIDIA slides](https://developer.nvidia.com/sites/default/files/akamai/gameworks/downloads/papers/NVVL/Fast_Flexible_Physically-Based_Volumetric_Light_Scattering.pdf)|||
+|            |Microfacet BRDFs|||| 
+|            |Volumetric Light Scattering|[GDC 2016 NVIDIA slides](https://developer.nvidia.com/sites/default/files/akamai/gameworks/downloads/papers/NVVL/Fast_Flexible_Physically-Based_Volumetric_Light_Scattering.pdf)|||
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Dec 3**   |Cinematic Visualization| Guest Lecture: Kalina Borkiewicz ||||
-|            |Volumetric Light Scattering (GDC 2016)|[NVIDIA slides](https://developer.nvidia.com/sites/default/files/akamai/gameworks/downloads/papers/NVVL/Fast_Flexible_Physically-Based_Volumetric_Light_Scattering.pdf)|||
+|**Dec 3**   |Cinematic Visualization| Guest: Kalina Borkiewicz ||||
+|            |Volumetric Light Scattering|[GDC 2016 NVIDIA slides](https://developer.nvidia.com/sites/default/files/akamai/gameworks/downloads/papers/NVVL/Fast_Flexible_Physically-Based_Volumetric_Light_Scattering.pdf)|||
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
@@ -154,7 +154,7 @@ layout: page
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Dec 10**  |Real-Time Ray Tracing||||
 |            |Brief Intro to Fluid Simulation ||||
-|            |Water Surface Wavelets (SIGGRAPH 2018)|||| 
+|            |Water Surface Wavelets|SIGGRAPH 2018 Paper||| 
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
