@@ -137,12 +137,15 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Nov 28**  |Volumetric Rendering||||
+|**Nov 28**  |Brief Intro to High Dynamnic Range||||
+|            |Brief Intro to Microfacet BRDFs||| 
+|            |Fast, Flexible, Physically-Based Volumetric Light Scattering (NVIDIA 2016)|[Nathan Hoobler's slides](https://developer.nvidia.com/sites/default/files/akamai/gameworks/downloads/papers/NVVL/Fast_Flexible_Physically-Based_Volumetric_Light_Scattering.pdf)|||
+
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Dec 3**   |Guest Lecture: Kalina Borkiewicz ||||
-||HDRI||||
+|**Dec 3**   |Cinematic Visualization| Guest Lecture: Kalina Borkiewicz ||||
+|            |Fast, Flexible, Physically-Based Volumetric Light Scattering (NVIDIA 2016)|[Nathan Hoobler's slides](https://developer.nvidia.com/sites/default/files/akamai/gameworks/downloads/papers/NVVL/Fast_Flexible_Physically-Based_Volumetric_Light_Scattering.pdf)|||
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
@@ -151,6 +154,8 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Dec 10**  |Real-Time Ray Tracing||||
+|            |Brief Intro to Fluid Simulation ||||
+|            |Water Surface Wavelets (SIGGRAPH 2018)|||| 
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
