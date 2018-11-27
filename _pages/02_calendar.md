@@ -137,10 +137,9 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Nov 28**  |Brief Intro to High Dynamnic Range||||
-|            |Brief Intro to Microfacet BRDFs||| 
+|**Nov 28**  |High Dynamnic Range||||
+|            |Brief Intro to Microfacet BRDFs|||| 
 |            |Volumetric Light Scattering (GDC 2016)|[NVIDIA slides](https://developer.nvidia.com/sites/default/files/akamai/gameworks/downloads/papers/NVVL/Fast_Flexible_Physically-Based_Volumetric_Light_Scattering.pdf)|||
-
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
