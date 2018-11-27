@@ -79,7 +79,7 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Oct 17**   | Basic BRDFs      |[Lecture 15]()  | |[**MP 3 Due Nov 8**](https://uillinoisgraphics.github.io/mp3/) |
+|**Oct 17**   | Basic BRDFs      |[Lecture 15](https://github.com/shaffer1/UIllinois_Rendering/raw/master/Lecture-14-Lights%20and%20Materials.pptx)  | |[**MP 3 Due Nov 8**](https://uillinoisgraphics.github.io/mp3/) |
 |||[Lecture 16](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture-15-Specular%20BRDFs.pptx?raw=true)||Read _Ray Tracing from the Ground Up_ chapter 14|
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
