@@ -139,13 +139,13 @@ layout: page
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Nov 28**  |Brief Intro to High Dynamnic Range||||
 |            |Brief Intro to Microfacet BRDFs||| 
-|            |Fast, Flexible, Physically-Based Volumetric Light Scattering (NVIDIA 2016)|[Nathan Hoobler's slides](https://developer.nvidia.com/sites/default/files/akamai/gameworks/downloads/papers/NVVL/Fast_Flexible_Physically-Based_Volumetric_Light_Scattering.pdf)|||
+|            |Volumetric Light Scattering (GDC 2016)|[NVIDIA slides](https://developer.nvidia.com/sites/default/files/akamai/gameworks/downloads/papers/NVVL/Fast_Flexible_Physically-Based_Volumetric_Light_Scattering.pdf)|||
 
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Dec 3**   |Cinematic Visualization| Guest Lecture: Kalina Borkiewicz ||||
-|            |Fast, Flexible, Physically-Based Volumetric Light Scattering (NVIDIA 2016)|[Nathan Hoobler's slides](https://developer.nvidia.com/sites/default/files/akamai/gameworks/downloads/papers/NVVL/Fast_Flexible_Physically-Based_Volumetric_Light_Scattering.pdf)|||
+|            |Volumetric Light Scattering (GDC 2016)|[NVIDIA slides](https://developer.nvidia.com/sites/default/files/akamai/gameworks/downloads/papers/NVVL/Fast_Flexible_Physically-Based_Volumetric_Light_Scattering.pdf)|||
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
