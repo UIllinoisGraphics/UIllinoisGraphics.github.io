@@ -139,7 +139,6 @@ layout: page
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Nov 28**  |High Dynamnic Range|[Lecture 27](https://github.com/shaffer1/UIllinois_Rendering/raw/master/Lecture-36-HDRI.pptx)|||
 |            |Microfacet BRDFs|[Lecture 28](https://github.com/shaffer1/UIllinois_Rendering/raw/master/Lecture48.pptx)||| 
-|            |Volumetric Light Scattering|[GDC NVIDIA slides](https://developer.nvidia.com/sites/default/files/akamai/gameworks/downloads/papers/NVVL/Fast_Flexible_Physically-Based_Volumetric_Light_Scattering.pdf)|||
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
