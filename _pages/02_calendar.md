@@ -137,7 +137,7 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Nov 28**  |High Dynamnic Range|[Lecture 27](https://github.com/shaffer1/UIllinois_Rendering/raw/master/Lecture-36-HDRI.pptx)|||
+|**Nov 28**  |High Dynamic Range|[Lecture 27](https://github.com/shaffer1/UIllinois_Rendering/raw/master/Lecture-36-HDRI.pptx)|||
 |            |Microfacet BRDFs|[Lecture 28](https://github.com/shaffer1/UIllinois_Rendering/raw/master/Lecture48.pptx)||| 
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
