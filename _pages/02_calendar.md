@@ -152,6 +152,7 @@ layout: page
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Dec 10**  |Real-Time Ray Tracing|||[Ray Tracing in Games with NVIDIA RTX](https://devblogs.nvidia.com/ray-tracing-games-nvidia-rtx/)|
 |            |Volumetric Light Scattering|[GDC NVIDIA slides](https://developer.nvidia.com/sites/default/files/akamai/gameworks/downloads/papers/NVVL/Fast_Flexible_Physically-Based_Volumetric_Light_Scattering.pdf)|||
+||Intro to DXR|[Lecture 29](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture49.pptx?raw=true)|||
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
