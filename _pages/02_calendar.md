@@ -109,13 +109,13 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Nov 7**   |Radiosity|[Lecture 24](https://github.com/shaffer1/UIllinois_Rendering/raw/master/Lecture-34%20Radiosity.pptx)|||
-||||||
+|||||[**MP 4 Due Dec 12**](https://uillinoisgraphics.github.io/mp4/)|
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Nov 12**  |CSG Modeling|[Lecture 25](https://github.com/shaffer1/UIllinois_Rendering/raw/master/Lecture%2037%20-%20Implicits.pptx)||
 |||[Worksheet 9](https://github.com/shaffer1/UIllinois_Rendering/raw/master/CS419-Worksheet10.pdf)|||
-||||||
+|||||[**4 Credit MP 5 Due Dec 12**](https://uillinoisgraphics.github.io/mp5/)|
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
@@ -143,7 +143,6 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Dec 3**   |Cinematic Visualization| Guest: Kalina Borkiewicz ||||
-|            |Volumetric Light Scattering|[GDC NVIDIA slides](https://developer.nvidia.com/sites/default/files/akamai/gameworks/downloads/papers/NVVL/Fast_Flexible_Physically-Based_Volumetric_Light_Scattering.pdf)|||
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
@@ -151,13 +150,14 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
-|**Dec 10**  |Real-Time Ray Tracing||||
-|            |Brief Intro to Fluid Simulation ||||
-|            |Water Surface Wavelets|SIGGRAPH 2018 Paper||| 
+|**Dec 10**  |Real-Time Ray Tracing|||[Ray Tracing in Games with NVIDIA RTX](https://devblogs.nvidia.com/ray-tracing-games-nvidia-rtx/)|
+|            |Volumetric Light Scattering|[GDC NVIDIA slides](https://developer.nvidia.com/sites/default/files/akamai/gameworks/downloads/papers/NVVL/Fast_Flexible_Physically-Based_Volumetric_Light_Scattering.pdf)|||
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Dec 12**  |Presentations||||
+|            |Brief Intro to Fluid Simulation ||||
+|            |Water Surface Wavelets|SIGGRAPH 2018 Paper||| 
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
