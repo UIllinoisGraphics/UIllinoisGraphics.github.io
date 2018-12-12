@@ -157,8 +157,8 @@ layout: page
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
 |**Dec 12**  |Presentations||||
-|            |Brief Intro to Fluid Simulation ||||
-|            |Water Surface Wavelets|SIGGRAPH 2018 Paper||| 
+|            |Brief Intro to Fluid Simulation |[Lecture 30](https://github.com/shaffer1/UIllinois_Rendering/blob/master/Lecture50.pptx?raw=true)|||
+|            |Water Surface Wavelets|[SIGGRAPH 2018 Video](https://www.youtube.com/watch?time_continue=146&v=VzmqVY3MUew)||| 
 |------------|-------------------|-------------|---------|--------------|
 |------------|-------------------|-------------|---------|--------------|
 |:-----------|:------------------|:------------|:--------|:-------------|
